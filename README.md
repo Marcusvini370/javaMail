@@ -1,4 +1,4 @@
-<h1>JavaMail Sistema de envio de E-mail<h1>
+<h1>JavaMail Sistema de envio de E-mail</h1>
 
 🔖 Layout
 
