@@ -1,15 +1,21 @@
-<h1>JavaMail Sistema de envio de E-mail</h1>
+<h1 align="center">JavaMail Sistema de envio de E-mail</h1>
 
-🔖 Layout
 
-Email
+## 🔖 Layout 
 
-🚀 Tecnologias
+![Email](https://user-images.githubusercontent.com/48605830/124340871-aa10d180-db8e-11eb-8beb-565676915279.png)
+
+
+
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Jdk 11
-JavaMail
-itextpdf
-💻 Projeto
-Envio de E-mail com html ou não , e com anexo pdf em uma lista com exemplo de enviar mais de um pdf usando o For each.
+- Jdk 8
+- JavaMail
+- itextpdf
+
+
+
+## 💻 Projeto
+<p align="justify">Envio de E-mail com html ou não , e com anexo  pdf em uma lista com exemplo de enviar mais de um pdf usando o For each. </p>
