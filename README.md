@@ -11,7 +11,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Jdk 8
+- Jdk 11
 - JavaMail
 - itextpdf
 
